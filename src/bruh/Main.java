@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hallo Welt!");
         /* omegalol */
         /* funny, isn't it? */
+        /* bruh */
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);
         String aa = args[2];
